@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Runtime Wall Shooter.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: af0c3dd18433a1c42a4d70189338e273, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3a48fed84dbf0ba4eb2544e01f5adc6c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d998396aa452156438b8e2ee9e7def06, type: 2}
   m_UseUCBPForAssetBundles: 0
